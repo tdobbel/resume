@@ -160,11 +160,11 @@ I applied and developed the high-resolution finite elements coastal ocean model 
 //
 // + Hanuise, D., Lin, C., Tol, S., Choukroun, S., Rasheed, M., *Dobbelaere, T.*, ... & Grech, A. Buoyancy duration of seagrass fragments to inform biophysical dispersal models in the Great Barrier Reef. _In preparation_.
 //
-+ *Dobbelaere, T.*, Williams G. J., Whitall, D., Aeby, G. S., Walker, B., & Hanert, E. Estimating land-based pollution sources and loadings to nearshore coral reefs in southeast Florida: a multiscale modeling approach. _To be submitted to Marine Pollution Bulletin_. 
+// + *Dobbelaere, T.*, Williams G. J., Whitall, D., Aeby, G. S., Walker, B., & Hanert, E. Estimating land-based pollution sources and loadings to nearshore coral reefs in southeast Florida: a multiscale modeling approach. _To be submitted to Marine Pollution Bulletin_. 
 
-+ *Dobbelaere, T.*, Chabotte, R., Figueiredo, J.,Holstein, D. M., & Hanert, E. Decadal and multispecies coral connectivity modeling for conservation and restoration prioritization in Florida _Submitted to Coral Reefs_
++ *Dobbelaere, T.*, Chabotte, R., Figueiredo, J., Holstein, D. M., & Hanert, E. (2025). Decadal and multispecies coral connectivity modeling for conservation and restoration prioritization in Florida. _Coral Reefs_, 1-18. #bluelink("https://doi.org/10.1007/s00338-025-02790-y", "https://doi.org/10.1007/s00338-025-02790-y")
 
-+ Hanuise, D., *Dobbelaere, T.*, Choukroun, S., Rasheed, M. A., Lambrechts, J., York, P. H., ... & Grech, A. (2025). Integrating Interspecific Traits into Biophysical Models of Seagrass Dispersal. _Accepted for publication in Ecological Modelling_.
++ Hanuise, D., *Dobbelaere, T.*, Choukroun, S., Rasheed, M. A., Lambrechts, J., York, P. H., ... & Grech, A. (2025). Integrating interspecific traits into biophysical models of seagrass dispersal._Ecological Modelling_, 510, 111329. #bluelink("https://doi.org/10.1016/j.ecolmodel.2025.111329", "https://doi.org/10.1016/j.ecolmodel.2025.111329")
 
 + Hirsh, H. K., Oliver, T. A., *Dobbelaere, T.*, Palacio-Castro, A. M., Barkley, H. C., Webb, A. E., Hanert, E., & Enochs, I. C. (2025). Statistical Prediction of In Situ Coral Reef Carbonate Dynamics Using Endmember Chemistry, Hydrodynamic Models, And Benthic Composition. _Aquatic Geochemistry_, 31(1), 4. #bluelink("https://doi.org/10.1007/s10498-025-09438-x", "https://doi.org/10.1007/s10498-025-09438-x")
 
